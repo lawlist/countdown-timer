@@ -9,15 +9,7 @@ allotted countdown time, then nothing will happen except a message stating so.
 2.  Save the example `.emacs` file in this repository to your home directory.
 
 3.  After you or Emacs has created the `user-emacs-directory` such as `~/.emacs.d`,
-    create the following *directories*:
-
-    `~/.emacs.d/elpa_1`
-
-    `~/.emacs.d/elpa_2`
-
-    `~/.emacs.d/elpa_3`
-
-4.  Create and customize the following *files*:
+    create the following *files*:
 
     `~/.emacs.d/init_1.el`
 
