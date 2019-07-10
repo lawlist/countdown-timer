@@ -11,7 +11,7 @@ The default hard-coded values for `package-user-dir` will be:
 
 * `~/.emacs.d/elpa_3` if the user chooses option # 3.
 
-* `~/.emacs.d/elpa` if the user does *not* choose option # 1, 2 or 3.
+* `~/.emacs.d/elpa` which is the default if the user does *not* choose anything.
 
 **SETUP**:
 
