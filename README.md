@@ -1,3 +1,7 @@
+**ATTRIBUTE**:  The `countdown-read` function was initially written by @Dan on
+https://emacs.stackexchange.com/a/3592/2287 and thereafter slightly revised by
+@lawlist.
+
 This repository contains an example of a countdown timer that sets a *different*
 `package-user-dir` and loads a corresponding user customization file depending
 upon which choice a user makes when Emacs starts.  The user is presented with a
