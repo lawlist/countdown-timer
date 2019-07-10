@@ -2,7 +2,6 @@ This is an example of a countdown timer that sets the `package-user-dir` and
 loads the corresponding user customization file.  The user is presented with a
 few choices, e.g., option 1, 2 or 3.  If the user makes no selection within the
 allotted countdown time, then nothing will happen except a message stating so.
-
 The default hard-coded values for `package-user-dir` will be:
 
 * `~/.emacs.d/elpa_1` if the user chooses option # 1.
