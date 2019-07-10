@@ -23,7 +23,7 @@
   :group 'lawlist-init)
 
 (defface init-countdown-face
-  '((t (:foreground "yellow")))
+  '((t (:foreground "magenta")))
   "Face for `init-text-choice-face`."
   :group 'lawlist-init)
 
