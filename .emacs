@@ -84,8 +84,6 @@
         (message "Sorry, Emacs could not locate init-file-three:  %s" init-file-three)))
     ((or (eq choice ?q)
          (eq choice ?Q))
-      (message "Q/q:  No additional user init file has been selected.")
-      nil)
+      (message "Q/q:  No additional user init file has been selected."))
     (t
-      (message "Default -- no choice was made.")
-      nil)))
+      (message "Default -- no choice was made."))))
