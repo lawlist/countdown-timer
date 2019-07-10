@@ -15,7 +15,7 @@ loads the corresponding user customization file.
 
     `~/.emacs.d/elpa_3`
 
-and then create and customize the following files:
+4.  Create and customize the following files:
 
     `~/.emacs.d/elpa_1/init_1.el`
 
