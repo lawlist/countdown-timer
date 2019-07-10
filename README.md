@@ -25,11 +25,11 @@ loads the corresponding user customization file.
 
 EXAMPLE:
 
-* `~/.emacs.d/elpa_1/init_1.el` might contain code loading your favorite
+* `~/.emacs.d/elpa_1/init_1.el` might contain code loading your *absolute* favorite
 starter kit.
 
-* `~/.emacs.d/elpa_2/init_2.el` might contain code loading your second favorite
+* `~/.emacs.d/elpa_2/init_2.el` might contain code loading your *second* favorite
 starter kit.
 
-* `~/.emacs.d/elpa_3/init_3.el` might contain code loading your third favorite
+* `~/.emacs.d/elpa_3/init_3.el` might contain code loading your *third* favorite
 starter kit.
