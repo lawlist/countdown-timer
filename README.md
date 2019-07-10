@@ -12,6 +12,8 @@ The default hard-coded values for `package-user-dir` will be:
 
 * `~/.emacs.d/elpa` if the user does *not* choose option # 1, 2 or 3.
 
+**SETUP**:
+
 1.  Backup any existing `.emacs` file in your home directory; e.g., rename it to
     something like `.emacs_original`.
 
