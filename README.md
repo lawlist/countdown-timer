@@ -39,6 +39,8 @@ starter kit.
 * `~/.emacs.d/init_3.el` might contain code loading your *third* favorite
 starter kit.
 
+**SCREENSHOTS -- countdown 3, 2, 1, 0 ...**:
+
 ![screenshot](https://www.lawlist.com/images/countdown_3.png)
 
 ![screenshot](https://www.lawlist.com/images/countdown_2.png)
