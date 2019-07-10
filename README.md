@@ -4,12 +4,18 @@ https://emacs.stackexchange.com/a/3592/2287 and thereafter slightly revised by
 
 ___
 
-This repository contains an example of a countdown timer that sets a *different*
-`package-user-dir` and loads a corresponding user customization file depending
-upon which choice a user makes when Emacs starts.  The user is presented with a
-few choices, e.g., option 1, 2 or 3.  If the user makes no selection within the
-allotted countdown time, then nothing will happen except a message stating so.
-The default hard-coded values for `package-user-dir` will be:
+In general, it is possible to have a seemingly unlimited selection of packages
+stored in the *same* `package-user-dir`.  It is possible to configure which
+packages get loaded when Emacs starts, but that is beyond the scope of this
+example.  A user may, however, have his/her own reasons for maintaining separate
+and distinct installations and choose to change the `package-user-dir`.
+
+This repository contains an example (using a countdown timer) that sets a custom
+location for the `package-user-dir` and loads a corresponding user customization
+file depending upon which choice a user makes when Emacs starts.  The user is
+presented with a few choices, e.g., option 1, 2 or 3.  If the user makes no
+selection within the allotted countdown time, then nothing will happen except a
+message stating so.  The default hard-coded values for `package-user-dir` will be:
 
 * `~/.emacs.d/elpa_1` if the user chooses option # 1.
 
