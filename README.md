@@ -28,7 +28,7 @@ starter kit.
 * `~/.emacs.d/init_3.el` might contain code loading your *third* favorite
 starter kit.
 
-The default `package-user-dir` will be:
+The default hard-coded values for `package-user-dir` will be:
 
     `~/.emacs.d/elpa_1` if the user chooses option # 1.
 
