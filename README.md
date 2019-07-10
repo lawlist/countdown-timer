@@ -30,13 +30,13 @@ starter kit.
 
 The default hard-coded values for `package-user-dir` will be:
 
-    `~/.emacs.d/elpa_1` if the user chooses option # 1.
+* `~/.emacs.d/elpa_1` if the user chooses option # 1.
 
-    `~/.emacs.d/elpa_2` if the user chooses option # 2.
+* `~/.emacs.d/elpa_2` if the user chooses option # 2.
 
-    `~/.emacs.d/elpa_3` if the user chooses option # 3.
+* `~/.emacs.d/elpa_3` if the user chooses option # 3.
 
-    `~/.emacs.d/elpa` if the user does *not* choose 1, 2 or 3.
+* `~/.emacs.d/elpa` if the user does *not* choose 1, 2 or 3.
 
 ![screenshot](https://www.lawlist.com/images/countdown_3.png)
 
