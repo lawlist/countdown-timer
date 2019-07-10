@@ -27,6 +27,8 @@
   "Face for `init-text-choice-face`."
   :group 'lawlist-init)
 
+;;; Function written by @Dan and revised slightly by @lawlist.
+;;; https://emacs.stackexchange.com/a/3592/2287
 (defun countdown-read (fnx &optional prompt inherit-input-method seconds)
 "Doc-string."
   (let ((seconds (or seconds 5))
