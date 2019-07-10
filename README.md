@@ -3,6 +3,16 @@ loads the corresponding user customization file.  The user is presented with a
 few choices, e.g., option 1, 2 or 3.  If the user makes no selection within the
 allotted countdown time, then nothing will happen except a message stating so.
 
+The default hard-coded values for `package-user-dir` will be:
+
+* `~/.emacs.d/elpa_1` if the user chooses option # 1.
+
+* `~/.emacs.d/elpa_2` if the user chooses option # 2.
+
+* `~/.emacs.d/elpa_3` if the user chooses option # 3.
+
+* `~/.emacs.d/elpa` if the user does *not* choose option # 1, 2 or 3.
+
 1.  Backup any existing `.emacs` file in your home directory; e.g., rename it to
     something like `.emacs_original`.
 
@@ -27,16 +37,6 @@ starter kit.
 
 * `~/.emacs.d/init_3.el` might contain code loading your *third* favorite
 starter kit.
-
-The default hard-coded values for `package-user-dir` will be:
-
-* `~/.emacs.d/elpa_1` if the user chooses option # 1.
-
-* `~/.emacs.d/elpa_2` if the user chooses option # 2.
-
-* `~/.emacs.d/elpa_3` if the user chooses option # 3.
-
-* `~/.emacs.d/elpa` if the user does *not* choose option # 1, 2 or 3.
 
 ![screenshot](https://www.lawlist.com/images/countdown_3.png)
 
