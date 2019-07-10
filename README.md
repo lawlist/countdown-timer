@@ -28,6 +28,16 @@ starter kit.
 * `~/.emacs.d/init_3.el` might contain code loading your *third* favorite
 starter kit.
 
+The default `package-user-dir` will be:
+
+    `~/.emacs.d/elpa_1` if the user chooses option # 1.
+
+    `~/.emacs.d/elpa_2` if the user chooses option # 2.
+
+    `~/.emacs.d/elpa_3` if the user chooses option # 3.
+
+    `~/.emacs.d/elpa` if the user does *not* choose 1, 2 or 3.
+
 ![screenshot](https://www.lawlist.com/images/countdown_3.png)
 
 ![screenshot](https://www.lawlist.com/images/countdown_2.png)
