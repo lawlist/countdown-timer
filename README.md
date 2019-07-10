@@ -1,4 +1,4 @@
-This is an example of a count-down timer that sets the `package-user-dir` and
+This is an example of a countdown timer that sets the `package-user-dir` and
 loads the corresponding user customization file.
 
 1.  Backup any existing `.emacs` file in your home directory; e.g., rename it to
